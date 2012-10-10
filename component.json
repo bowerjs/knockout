@@ -1,6 +1,6 @@
 {
     "name"        : "knockout.js",
-    "version"     : "2.2.0rc",
+    "version"     : "2.1.0",
     "main"        : "./knockout.js",
     "dependencies": {
     }
